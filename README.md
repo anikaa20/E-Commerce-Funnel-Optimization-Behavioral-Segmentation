@@ -41,7 +41,7 @@ analyze user progression, identify conversion bottlenecks, revenue leakage, and 
 
 1. Behavioral Drop-off ( 50.00% ): Exactly half of your visitors leave the homepage without viewing a product. This points to a need for better homepage engagement or more relevant traffic sources.
 
-2. Overall Conversion Rate ( 0.14% ): Your end-to-end success rate is extremely low ( 0.14% ).
+2. Overall Conversion Rate ( 0.14% ): End-to-end success rate is extremely low ( 0.14% ).
 
 3. Behavior-based segmentation showed that High-Intent Cart Abandoners represent a critical opportunity segment. Although they did not complete purchases, these users reached advanced funnel stages and demonstrated significantly higher conversion potential compared to low-intent browsers.
 
